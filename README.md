@@ -8,6 +8,9 @@
 
 A Clash GUI Proxy For Windows Based On .NET Framework 4.6.1
 
+[![HitCount](http://hits.dwyl.com/ClashDotNetFramework/ClashDotNetFramework.svg)](http://hits.dwyl.com/ClashDotNetFramework/ClashDotNetFramework)
+![GitHub all releases](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/total)
+
 </div>
 
 ## Features
@@ -36,3 +39,6 @@ I TAKE ABSOLUTELY NO RESPONSIBILITY OF THE CONSEQUENCES THAT THIS SOFTWARE WILL 
 - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [Netch](https://github.com/NetchX/Netch)
 - [NetFilter SDK](https://netfiltersdk.com)
+
+## Star History
+[![Stargazers over time](https://starchart.cc/ClashDotNetFramework/ClashDotNetFramework.svg)](https://starchart.cc/ClashDotNetFramework/ClashDotNetFramework)    
