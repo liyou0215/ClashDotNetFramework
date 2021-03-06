@@ -8,7 +8,7 @@
 
 A Clash GUI Proxy For Windows Based On .NET Framework 4.6.1
 
-[![HitCount](http://hits.dwyl.com/ClashDotNetFramework/ClashDotNetFramework.svg)](http://hits.dwyl.com/ClashDotNetFramework/ClashDotNetFramework)
+[![HitCount](http://hits.dwyl.io/ClashDotNetFramework/ClashDotNetFramework.svg)](http://hits.dwyl.io/ClashDotNetFramework/ClashDotNetFramework)
 ![GitHub all releases](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/total)
 
 </div>
@@ -20,10 +20,14 @@ A Clash GUI Proxy For Windows Based On .NET Framework 4.6.1
 - Native Application - fully compatiable with Windows 7 and above
 - Process Proxy - proxy process by their name, support global proxy and fullcone
 - Open Source SDK - use another developer's SDK, licensed Apache-2.0
+- Modern UI Design - beautiful and modern ui design by WPF and xaml
+- Powerful TrayIcon - copy proxy setting commands, open terminal with proxy set up, set proxy to telegram, etc.
+- Powerful Stats - interactive speed graph with 30 recent speed logs
 
 ## Discussions
 - [Discord](https://discord.gg/vsDxzJ9R75)
 - [Telegram](https://t.me/ClashDotNetFramework)
+- [Telegram Channel](https://t.me/ClashDotNetFrameworkAnncmnt)
 
 ## Disclaimer
 This software is protected by U.S. laws, please use it in accordance with your regional laws.  
