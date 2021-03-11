@@ -9,6 +9,7 @@
 A Clash GUI Proxy For Windows Based On .NET Framework 4.6.1
 
 [![HitCount](http://hits.dwyl.io/ClashDotNetFramework/ClashDotNetFramework.svg)](http://hits.dwyl.io/ClashDotNetFramework/ClashDotNetFramework)
+![Github latest release](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/latest/total)
 ![GitHub all releases](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/total)
 
 </div>
