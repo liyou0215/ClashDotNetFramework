@@ -24,6 +24,7 @@ A Clash GUI Proxy For Windows Based On .NET Framework 4.6.1
 - Modern UI Design - beautiful and modern ui design by WPF and xaml
 - Powerful TrayIcon - copy proxy setting commands, open terminal with proxy set up, set proxy to telegram, etc.
 - Powerful Stats - interactive speed graph with 30 recent speed logs
+- Globalization - multi-language graphic user interface, support English, Chinese and Japanese
 
 ## Discussions
 - [Discord](https://discord.gg/vsDxzJ9R75)
@@ -44,6 +45,7 @@ I TAKE ABSOLUTELY NO RESPONSIBILITY OF THE CONSEQUENCES THAT THIS SOFTWARE WILL 
 - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [Netch](https://github.com/NetchX/Netch)
 - [NetFilter SDK](https://netfiltersdk.com)
+- [Yacd](https://github.com/haishanh/yacd)
 
 ## Star History
 [![Stargazers over time](https://starchart.cc/ClashDotNetFramework/ClashDotNetFramework.svg)](https://starchart.cc/ClashDotNetFramework/ClashDotNetFramework)    
