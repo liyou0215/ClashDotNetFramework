@@ -15,15 +15,15 @@ A Clash GUI Proxy For Windows Based On .NET 5
 </div>
 
 ## Features
-- Space friendly - only takes up less than 20MB of your disk
-- CPU and Battery friendly - by defauly, only three websocket connections were open
+- Space friendly - only takes up less than 30MB of your disk
 - Native Application - fully compatiable with Windows 7 and above
 - Advance Mode - proxy process by their name, support global proxy and fullcone
 - Open Source SDK - use another developer's SDK, licensed Apache-2.0
-- Modern UI Design - beautiful and modern ui design by WPF and xaml
+- Beautiful UI Design - beautiful and modern ui design by WPF and xaml
 - Powerful TrayIcon - copy proxy setting commands, open terminal with proxy set up, set proxy to telegram, etc.
 - Powerful Stats - interactive speed graph with 30 recent speed logs
 - Globalization - multi-language graphic user interface, support English, Chinese, Japanese and Persian
+- Portable Mode - save the config file in current application folder
 
 ## Discussions
 - [Discord](https://discord.gg/vsDxzJ9R75)
