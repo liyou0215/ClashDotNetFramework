@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.loli.net/2021/03/17/7ukXiyP9OtqT3So.png" align="center" height="80"/>
+    <img src="https://i.loli.net/2021/04/14/stpGJ2jFTWw4Dq5.png" align="center" height="80"/>
 </p>
 
 <div align="center">
@@ -8,9 +8,11 @@
 
 A Clash GUI Proxy For Windows Based On .NET 5
 
-[![HitCount](http://hits.dwyl.io/ClashDotNetFramework/ClashDotNetFramework.svg)](http://hits.dwyl.io/ClashDotNetFramework/ClashDotNetFramework)
-![Github latest release](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/latest/total)
-![GitHub all releases](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/total)
+![Stars](https://img.shields.io/github/stars/ClashDotNetFramework/ClashDotNetFramework?color=red&style=flat-square)
+![Github latest release](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/latest/total?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/ClashDotNetFramework/ClashDotNetFramework/total?style=flat-square)
+![Issues](https://img.shields.io/static/v1?label=feedback&message=issues&color=pink&style=flat-square)
+![RunTime](https://img.shields.io/static/v1?label=runtime&message=.NET%205&color=yellow&style=flat-square)
 
 </div>
 
@@ -44,6 +46,7 @@ I TAKE ABSOLUTELY NO RESPONSIBILITY OF THE CONSEQUENCES THAT THIS SOFTWARE WILL 
 - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [Netch](https://github.com/NetchX/Netch)
 - [NetFilter SDK](https://netfiltersdk.com)
+- [Pcap2socks](https://github.com/zhxie/pcap2socks)
 - [Yacd](https://github.com/haishanh/yacd)
 
 ## Star History
