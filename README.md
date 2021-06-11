@@ -34,7 +34,6 @@ A Clash GUI Proxy For Windows Based On .NET 5
 | --- | --- | --- |
 | Github Release | [![ClashNet](https://img.shields.io/github/v/release/ClashDotNetFramework/ClashDotNetFramework)](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/latest) | Coel Wu |
 | Chocolately | [![ClashNet](https://img.shields.io/chocolatey/v/clashdotnet)](https://community.chocolatey.org/packages/clashdotnet) | Markson Pigeonzilla |
-| Scoop | --- | --- |
 | WinGet | --- | --- |
 
 ## Discussions
