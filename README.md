@@ -28,19 +28,21 @@ A Clash GUI Proxy For Windows Based On .NET 5
 - Globalization - multi-language graphic user interface, support English, Chinese, Japanese and Persian
 - Portable Mode - save the config file in current application folder
 
+## Availability
+
+| Platform | Status | Maintainer |
+| --- | --- | --- |
+| Github Release | [![ClashNet](https://img.shields.io/github/v/release/ClashDotNetFramework/ClashDotNetFramework)](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/latest) | Coel Wu |
+| Chocolately | [![ClashNet](https://img.shields.io/chocolatey/v/clashdotnet)](https://community.chocolatey.org/packages/clashdotnet) | Markson Pigeonzilla |
+| Scoop | --- | --- |
+| WinGet | --- | --- |
+
 ## Discussions
 - [Discord](https://discord.gg/vsDxzJ9R75)
 - [Telegram](https://t.me/ClashDotNetFramework)
 - [Telegram Channel](https://t.me/ClashDotNetFrameworkAnncmnt)
 
-## Disclaimer
-This software is protected by U.S. laws, please use it in accordance with your regional laws.  
-We accept no liability for any problems with your computer that may arise as a result.  
-You will not reverse engineer, decompile or otherwise attempt to discover the source code of the Software.  
-I TAKE ABSOLUTELY NO RESPONSIBILITY OF THE CONSEQUENCES THAT THIS SOFTWARE WILL MAKE
-
 ## Credits
-
 - [Clash](https://github.com/Dreamacro/clash)
 - [ClashX](https://github.com/yichengchen/clashX)
 - [Clash-Dashboard](https://github.com/Dreamacro/clash-dashboard)
@@ -49,6 +51,12 @@ I TAKE ABSOLUTELY NO RESPONSIBILITY OF THE CONSEQUENCES THAT THIS SOFTWARE WILL 
 - [NetFilter SDK](https://netfiltersdk.com)
 - [Pcap2socks](https://github.com/zhxie/pcap2socks)
 - [Yacd](https://github.com/haishanh/yacd)
+
+## Disclaimer
+This software is protected by U.S. laws, please use it in accordance with your regional laws.  
+We accept no liability for any problems with your computer that may arise as a result.  
+You will not reverse engineer, decompile or otherwise attempt to discover the source code of the Software.  
+I TAKE ABSOLUTELY NO RESPONSIBILITY OF THE CONSEQUENCES THAT THIS SOFTWARE WILL MAKE
 
 ## Star History
 [![Stargazers over time](https://starchart.cc/ClashDotNetFramework/ClashDotNetFramework.svg)](https://starchart.cc/ClashDotNetFramework/ClashDotNetFramework)    
