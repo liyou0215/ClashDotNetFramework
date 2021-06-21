@@ -27,6 +27,7 @@ A Clash GUI Proxy For Windows Based On .NET 5
 - Powerful Stats - interactive speed graph with 30 recent speed logs
 - Globalization - multi-language graphic user interface, support English, Chinese, Japanese and Persian
 - Portable Mode - save the config file in current application folder
+- Remote Controller Mode - control clash on your router or anywhere else
 
 ## Availability
 
